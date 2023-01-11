@@ -1,4 +1,3 @@
-![bannerr](https://user-images.githubusercontent.com/82368874/211804494-fcd799fb-f94e-454f-8bdb-b747fe5ded24.gif)
 <h1 align='center'> Hi 👋, I am Fariyan Ishraq </h1>
 <h3 align='center'> A passionate software developer. </h3>
 <p>
